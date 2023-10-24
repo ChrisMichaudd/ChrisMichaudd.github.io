@@ -1,10 +1,3 @@
-Put the address to your website here. Use this markdown format:
+Link to final website. Note information displayed may not be accurate, merely used as practice for HTML/CSS.
 
-```bash
-[display-name](https://chrismichaudd.github.io/index.html)
-```
-
-example:
-```bash
-[my website](https://rick-astley.github.io)
-```
+https://chrismichaudd.github.io/index.html 
